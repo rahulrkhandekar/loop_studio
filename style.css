@@ -59,6 +59,7 @@
 
 .header .container {
     position: relative;
+    overflow: hidden;
 }
 
 .container {
@@ -407,7 +408,7 @@ footer .container .copyright .icon ul li {
     }
     .header .container .main {
         height: 200px;
-        width: 310px;
+        width: 306px;
         margin-top: 146px;
     }
     .header .container .navigation .logo img {
